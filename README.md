@@ -1,0 +1,2 @@
+# airline_analysis
+You are working for an airline company looking to enter the United States domestic market. Specifically, the company has decided to start with 5 round trip routes between medium and large US airports. An example of a round trip route is the combination of JFK to ORD and ORD to JFK. The airline company has to acquire 5 new airplanes (one per round trip route) and the upfront cost for each airplane is $90 million. The company’s motto is “On time, for you”, so punctuality is a big part of its brand image.
